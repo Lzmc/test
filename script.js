@@ -61,3 +61,4 @@ addProduct('IMG_1809.JPG', 'Artistic Design Tee', 22.49, '#');
 addProduct('IMG_1810.JPG', 'Everyday Essentials T-Shirt', 19.99, '#');
 addProduct('IMG_1809.JPG', 'Street Style Tee', 20.49, '#');
 addProduct('IMG_1810.JPG', 'Cool Print T-Shirt', 21.99, '#');
+addProduct('IMG_1809.JPG', 'Classic Logo Tee', 19.99, '#');
