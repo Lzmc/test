@@ -85,8 +85,9 @@ a:hover {
 
 @media (max-width: 480px) {
   .product {
-    flex: 0 0 calc(50% - 15px);
-    max-width: calc(50% - 15px);
+    margin: calc(10% - 25px);
+    flex: 0 0 calc(45% - 15px);
+    max-width: calc(45% - 15px);
   }
 }
 
