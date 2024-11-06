@@ -91,6 +91,14 @@ a:hover {
   }
 }
 
+@media (max-width: 360px) {
+  .product {
+    margin: calc(10% - 20px);
+    flex: 0 0 calc(45% - 15px);
+    max-width: calc(45% - 15px);
+  }
+}
+
 footer {
   background-color: #f8f8f8;
   padding: 20px 0;
